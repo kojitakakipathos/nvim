@@ -3,11 +3,6 @@
 if true then return {
   {"epwalsh/obsidian.nvim",
    opts = {
-    workspaces = {
-      {
-        name = "pathoslogos",
-        path = "~/Documents/pathoslogos",
-      },
       },},}
 } end
 
